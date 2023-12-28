@@ -1,0 +1,537 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 172.8rem;
+}.detail-iXw {
+  width: 100%;
+  height: 111.7rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #000d3f;
+}
+.detail-iXw .ellipse-21-2Yd {
+  width: 133.3966rem;
+  height: 133.3966rem;
+  position: absolute;
+  left: 72.8rem;
+  top: 0;
+  background: radial-gradient(50% 50% at 50% 50%, #5c1dfd 0%, rgba(1, 0, 255, 0) 92.71%);
+  border-radius: 66.6983rem;
+}
+.detail-iXw .k-taq {
+  width: 4.9rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 31.722rem;
+  top: 54.0415rem;
+  text-align: center;
+  font-size: 7.4371rem;
+  font-weight: 700;
+  line-height: 1.445;
+  letter-spacing: -0.3347rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-iXw .item-235-mPj {
+  width: 21.2rem;
+  height: 17.1rem;
+  position: absolute;
+  left: 9.25rem;
+  top: 49.4833rem;
+  text-align: center;
+  font-size: 11.8179rem;
+  font-weight: 700;
+  line-height: 1.445;
+  letter-spacing: -0.5318rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-iXw .robot-intelligence-eiR {
+  width: 19.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 18.5rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.445;
+  letter-spacing: 0.132rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-iXw .lorem-ipsum-iyB {
+  width: 10.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 63.9rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.445;
+  text-transform: capitalize;
+  color: #7eb1ff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-iXw .robot-sales-figures-S8V {
+  width: 24rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 8.7rem;
+  top: 72.7rem;
+  text-align: center;
+  font-size: 2.589rem;
+  font-weight: 700;
+  line-height: 1.445;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-iXw .month-8X7 {
+  width: 6.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 9rem;
+  top: 81.1rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.445;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-iXw .month-2Mb {
+  width: 6.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 9rem;
+  top: 89rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.445;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-iXw .month-jG1 {
+  width: 6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 9rem;
+  top: 96.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.445;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-iXw .item-0-SAR {
+  width: 1.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 104.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.445;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-iXw .robot-ai-LWh {
+  width: 44.9rem;
+  height: 13rem;
+  position: absolute;
+  left: 8.2rem;
+  top: 21.7rem;
+  text-align: center;
+  font-size: 8.9941rem;
+  font-weight: 700;
+  line-height: 1.445;
+  letter-spacing: 0.1349rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-iXw .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-a-rhoncus-nisi-diam-elementum-amet-felis-nibh-pulvinar-elementum-ornare-pharetra-leo-tellus-id-elementum-tempus-cursus-ac-imperdiet-tellus-ornare-duis-vel-lacus-lacus-volutpat-vulputate-egestas-in-Ro3 {
+  width: 68.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 8.7rem;
+  top: 35.3rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5149999346;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+}
+.detail-iXw .group-6-CxD {
+  box-sizing: border-box;
+  padding: 1.7rem 2.2rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 9rem;
+  top: 44rem;
+  background: linear-gradient(7.72deg, #112dbc 120.1%, rgba(34, 55, 163, 0) 265.12%);
+  border-radius: 4.3rem;
+}
+.detail-iXw .group-6-CxD .vector-10-7ZP {
+  width: 1rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.3rem;
+}
+.detail-iXw .akar-icons-heart-Pmo {
+  opacity: 0.77;
+  width: 1.5211rem;
+  height: 1.3564rem;
+  position: absolute;
+  left: 30.3521rem;
+  top: 19.4282rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.detail-iXw .ant-design-share-alt-outlined-i3P {
+  opacity: 0.77;
+  width: 1.4974rem;
+  height: 1.6305rem;
+  position: absolute;
+  left: 33.7865rem;
+  top: 19.2496rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.detail-iXw .group-48-245 {
+  box-sizing: border-box;
+  padding: 20.4rem 23.42rem 20.22rem 24.779rem;
+  width: 67.152rem;
+  height: 69.3023rem;
+  position: absolute;
+  left: 52.5rem;
+  top: 32.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/shape-8WR.png');
+}
+.detail-iXw .group-48-245 .ellipse-23-63w {
+  margin: 0rem 12.027rem 2.646rem 0rem;
+  width: 6.9256rem;
+  height: 6.9256rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-iXw .group-48-245 .ellipse-24-D8Z {
+  margin: 0rem 0rem 5.26rem 12.027rem;
+  width: 6.9256rem;
+  height: 6.9256rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-iXw .group-48-245 .ellipse-25-jch {
+  margin-left: 2.3782rem;
+  width: 6.9256rem;
+  height: 6.9256rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-iXw .group-53-NvZ {
+  width: 2.6rem;
+  height: 18.6rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 91.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.7rem;
+}
+.detail-iXw .group-53-NvZ .rectangle-29-uQh {
+  margin: 0rem 0.7rem 0.8rem 0.7rem;
+  width: calc(100% - 1.4rem);
+  height: 15.4rem;
+  background-color: #212f68;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.detail-iXw .group-53-NvZ .k-cK7 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.445;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-iXw .group-52-7Wm {
+  width: 2.8rem;
+  height: 23.6rem;
+  position: absolute;
+  left: 31.6rem;
+  top: 86.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.7rem;
+}
+.detail-iXw .group-52-7Wm .rectangle-30-dV7 {
+  margin: 0rem 0.7rem 0.8rem 0.8rem;
+  width: calc(100% - 1.5rem);
+  height: 20.4rem;
+  background-color: #3915d4;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.detail-iXw .group-52-7Wm .k-vz1 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.445;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-iXw .group-51-crq {
+  width: 2.6rem;
+  height: 23.6rem;
+  position: absolute;
+  left: 40.5rem;
+  top: 86.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.7rem;
+}
+.detail-iXw .group-51-crq .rectangle-31-ub3 {
+  margin: 0rem 0.7rem 0.8rem 0.7rem;
+  width: calc(100% - 1.4rem);
+  height: 20.4rem;
+  background-color: #212f68;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.detail-iXw .group-51-crq .k-cVT {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.445;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-iXw .group-50-iYV {
+  width: 2.8rem;
+  height: 26.5rem;
+  position: absolute;
+  left: 49.2rem;
+  top: 83.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.7rem;
+}
+.detail-iXw .group-50-iYV .rectangle-32-dvM {
+  margin: 0rem 0.7rem 0.8rem 0.8rem;
+  width: calc(100% - 1.5rem);
+  height: 23.3rem;
+  background-color: #212f68;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.detail-iXw .group-50-iYV .k-ZJD {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.445;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-iXw .group-49-63F {
+  width: 2.8rem;
+  height: 28.7rem;
+  position: absolute;
+  left: 58.1rem;
+  top: 81.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.7rem;
+}
+.detail-iXw .group-49-63F .rectangle-33-2Bo {
+  margin: 0rem 0.8rem 0.8rem 0.8rem;
+  width: calc(100% - 1.6rem);
+  height: 25.5rem;
+  background-color: #212f68;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.detail-iXw .group-49-63F .k-LyB {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.445;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-iXw .vector-Tnu {
+  width: 3.15rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 160.6rem;
+  top: 8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.detail-iXw .item-1-6-PwT {
+  width: 89.1rem;
+  height: 97rem;
+  position: relative;
+  left: 109.7rem;
+  top: 15.7rem;
+  background-size: 193.715% 100%;
+  background-position: -49.3521rem -0rem;
+  background-image: url('../assets/-pxd.png');
+}
+.detail-iXw .concept-UCD {
+  width: 7.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 72.6rem;
+  top: 7.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.445;
+  letter-spacing: -0.048rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-iXw .contact-mBK {
+  width: 7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 86.4rem;
+  top: 7.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.445;
+  letter-spacing: -0.048rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-iXw .about-us-rTf {
+  width: 7.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 100.15rem;
+  top: 7.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.445;
+  letter-spacing: -0.048rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-iXw .rectangle-28-wED {
+  width: 11.9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 70.2rem;
+  top: 7.3rem;
+  border: solid 0.15rem #ffffff;
+  box-sizing: border-box;
+  border-radius: 1.8rem;
+}
+.detail-iXw .group-47-r6H {
+  width: 7.2887rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 4.9rem;
+}
+.detail-iXw .group-47-r6H .ellipse-22-Acm {
+  width: 5.7057rem;
+  height: 5.7057rem;
+  position: absolute;
+  left: 0;
+  top: 1.3472rem;
+  background: linear-gradient(180deg, #5837dd -0%, rgba(3, 3, 3, 0) 100%);
+  border-radius: 2.8528rem;
+}
+.detail-iXw .group-47-r6H .a-fJd {
+  width: 3.9rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 3.3887rem;
+  top: 0;
+  text-align: center;
+  font-size: 5.824rem;
+  font-weight: 500;
+  line-height: 1.445;
+  letter-spacing: -0.1747rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
